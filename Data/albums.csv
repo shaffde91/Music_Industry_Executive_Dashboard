@@ -1,0 +1,82 @@
+album_id,band_id,album_title,release_year,us_peak_chart_position,approx_us_certified_units_millions
+1,1,Led Zeppelin,1969,10,10
+2,1,Led Zeppelin II,1969,1,12
+3,1,Led Zeppelin III,1970,1,6
+4,1,Led Zeppelin IV,1971,2,24
+5,1,Houses of the Holy,1973,1,11
+6,1,Physical Graffiti,1975,1,16
+7,1,Presence,1976,1,3
+8,1,In Through the Out Door,1979,1,6
+9,2,Meddle,1971,70,2
+10,2,The Dark Side of the Moon,1973,1,15
+11,2,Wish You Were Here,1975,1,6
+12,2,Animals,1977,3,4
+13,2,The Wall,1979,1,23
+14,2,The Final Cut,1983,6,2
+15,3,Beggars Banquet,1968,5,2
+16,3,Let It Bleed,1969,3,2
+17,3,Sticky Fingers,1971,1,3
+18,3,Exile on Main St.,1972,1,3
+19,3,Goats Head Soup,1973,1,2
+20,3,Some Girls,1978,1,6
+21,3,Tattoo You,1981,1,4
+22,4,Sheer Heart Attack,1974,12,1
+23,4,A Night at the Opera,1975,4,3
+24,4,A Day at the Races,1976,5,2
+25,4,News of the World,1977,3,4
+26,4,Jazz,1978,6,2
+27,4,The Game,1980,1,4
+28,5,Tommy,1969,4,2
+29,5,Who's Next,1971,4,3
+30,5,Quadrophenia,1973,2,2
+31,5,Who Are You,1978,2,2
+32,6,Fleetwood Mac,1975,1,5
+33,6,Rumours,1977,1,20
+34,6,Tusk,1979,4,2
+35,7,Eagles,1972,22,2
+36,7,Desperado,1973,41,1
+37,7,On the Border,1974,17,2
+38,7,One of These Nights,1975,1,4
+39,7,Hotel California,1976,1,26
+40,7,The Long Run,1979,1,7
+41,8,High Voltage,1976,146,1
+42,8,Highway to Hell,1979,17,7
+43,8,Back in Black,1980,4,25
+44,8,For Those About to Rock We Salute You,1981,1,4
+45,9,Aerosmith,1973,21,2
+46,9,Get Your Wings,1974,74,3
+47,9,Toys in the Attic,1975,11,8
+48,9,Rocks,1976,3,4
+49,9,Draw the Line,1977,11,2
+50,9,Permanent Vacation,1987,11,5
+51,9,Pump,1989,5,7
+52,10,Machine Head,1972,7,2
+53,10,Made in Japan,1972,6,1
+54,10,Burn,1974,9,1
+55,11,Black Sabbath,1970,23,1
+56,11,Paranoid,1970,12,4
+57,11,Master of Reality,1971,8,2
+58,11,Vol. 4,1972,13,1
+59,11,Sabbath Bloody Sabbath,1973,11,1
+60,12,The Doors,1967,2,4
+61,12,Strange Days,1967,3,1
+62,12,Waiting for the Sun,1968,1,1
+63,12,L.A. Woman,1971,9,2
+64,13,Pronounced Leh-Nerd Skin-Nerd,1973,27,2
+65,13,Second Helping,1974,12,3
+66,13,Street Survivors,1977,5,2
+67,14,Bayou Country,1969,7,1
+68,14,Green River,1969,1,2
+69,14,Willy and the Poor Boys,1969,3,2
+70,14,Cosmo's Factory,1970,1,4
+71,14,Pendulum,1970,5,1
+72,15,Boston,1976,3,17
+73,15,Don't Look Back,1978,1,7
+74,16,Infinity,1978,21,2
+75,16,Departure,1980,8,1
+76,16,Escape,1981,1,9
+77,16,Frontiers,1983,2,6
+78,17,Van Halen,1978,19,10
+79,17,Van Halen II,1979,6,5
+80,17,Women and Children First,1980,6,2
+81,17,1984,1984,2,10

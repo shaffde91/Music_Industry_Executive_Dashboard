@@ -1,0 +1,14 @@
+# Power BI temporary/backup files
+*.pbit
+~$*.pbix
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# VS Code settings
+.vscode/
+
+# Python cache (for future projects)
+__pycache__/
+*.py[cod]
